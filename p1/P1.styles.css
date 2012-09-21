@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body {
+background-image:url(images/background1_blue.jpg);
+background-repeat:no-repeat;
+filter:alpha(opacity=50);
+background-attachment:fixed;
+background-size:100% 100%;
+background-position:inherit;
+
+
+}
+
+h1 {
+	font-family: cursive;
+	color:rgba(183,217,220,0.49);
+	text-align:right;
+	font-size:64px;
+	font-style:italic;
+
+
+}
+
+
+
+.style1 {
+	font-family:fantasy;
+	font-size:24px;
+	margin-left:10%;
+	margin-right:10%;
+	color:#c0d9e0;
+	
+	
+}
+
+
+
+.a:link, a:visited {
+	font-family:fantasy;
+	color:#c0d9e0;
+	font-size:24px;
+	font-style:normal;
+	text-decoration:underline;
+	
+}
